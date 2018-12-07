@@ -1,4 +1,7 @@
 # mfs
 React Native Social App
 
-![Optional Text](../master/samples/stack.png)
+
+<p align="center">
+  <img src="../master/samples/stack.png" width="350" title="hover text">
+</p>
