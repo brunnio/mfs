@@ -1,11 +1,11 @@
 import { AsyncStorage, Platform } from 'react-native';
 import { NavigationActions } from 'react-navigation';
-import * as actions from './modules/auth/actions';
-import * as matchActions from './modules/match/actions'
 import SInfo from 'react-native-sensitive-info';
+import RNFetchBlob from 'react-native-fetch-blob';
+import * as actions from './modules/auth/actions';
 import * as api from './modules/auth/api';
 
-import RNFetchBlob from 'react-native-fetch-blob';
+
 
 module.exports = {
 
