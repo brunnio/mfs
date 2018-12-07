@@ -1,8 +1,8 @@
 # mfs
-React Native Social App
+React Native Social App for iOS and Android
 
 - Developed in 2018 with a small team of devs and designers
-- In charge of prototyping and development
+- In charge of prototyping and lead development
 - Uses firebase's realtime database, storage, cloud functions and authentication
 - ES6/7 codebase
 - Uses many popular react native components like native base, react navigation, and several custom components
