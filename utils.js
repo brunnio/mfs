@@ -39,10 +39,9 @@ module.exports = {
 					return imageRef.getDownloadURL()
 				})
 				.then((url) => {
-					//resolve(url);
-
+					
+					// dispatch a redux action
 					store.dispatch(actions.savePicURL(store.getState().userReducer.userInfo.uid, url, currentImageIndexBeingUploaded, () => {
-
 						callback();
 
 					}));
