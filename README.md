@@ -1,2 +1,2 @@
 # mfs
-Social React Native App
+React Native Social App
